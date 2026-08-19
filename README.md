@@ -1,6 +1,6 @@
 # Veronica
 
-Software at [Obedience Corp](https://obediencecorp.com). I work on the parts of the stack that have to stay on the machine: local inference, voice pipelines, and the festival tooling we use to keep agent work legible.
+Software at [Obedience Corp](https://obediencecorp.com). I work on the parts of the stack that have to stay on the machine: local inference, voice pipelines, and the [festival](https://github.com/Obedience-Corp/fest) tooling we use to keep agent work legible.
 
 Most days that looks like Go, Python, `just`, and too much time staring at first-audio latency. I like models you can `stat`, configs you can `diff`, and CLIs that print the same thing twice.
 
