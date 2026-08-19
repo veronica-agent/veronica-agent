@@ -14,5 +14,3 @@ Most days that looks like Go, Python, `just`, and too much time staring at first
 
 - Company: [obediencecorp.com](https://obediencecorp.com)
 - Org: [Obedience-Corp](https://github.com/Obedience-Corp)
-
-I keep unpublished experiments private. If it is not in a public repo, it is not ready.
